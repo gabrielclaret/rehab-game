@@ -8,4 +8,4 @@ Game that was made in 2018-19 for a Scientific Research at CDTTA(now e-Health Ce
 Gabriel Claret - Computer Engineering Student
 Anna Paula - Biomedic Engineering Student
 
-You can see the paper here, [rehabgame.pdf](#rehabgame.pdf).
+You can see the paper here, [rehabgame.pdf](rehabgame.pdf).
