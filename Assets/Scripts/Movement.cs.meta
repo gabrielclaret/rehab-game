@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2b4a3cf0948f884fa48db1b8f14eac5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShoulderMaterial: {instanceID: 0}
+  - ElbowMaterial: {instanceID: 0}
+  - HandMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
