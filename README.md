@@ -5,7 +5,7 @@ A repo for a scientific research game that aims to help the rehabilitation of th
 
 Game that was made in 2018-19 for a Scientific Research at CDTTA(now e-Health Center) - Inatel. The group was:
 
-Gabriel Claret - Computer Engineering Student
-Anna Paula - Biomedic Engineering Student
+- Gabriel Claret - Computer Engineering Student
+- Anna Paula - Biomedic Engineering Student
 
 You can see the paper here, [rehabgame.pdf](rehabgame.pdf).
